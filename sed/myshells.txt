@@ -1,0 +1,4 @@
+/bin/bash
+/bin/csh
+/bin/sh
+/bin/tcsh

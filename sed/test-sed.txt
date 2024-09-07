@@ -1,0 +1,5 @@
+system "echo 'project:$project' >> logfile";
+system "echo 'version:$version' >> logfile";
+system "echo 'optionalid:$optionalid' >> logfile";
+system "echo 'nodes:$nodes' >> logfile";
+system "echo 'threads:$threads' >> logfile";
